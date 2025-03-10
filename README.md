@@ -14,6 +14,7 @@ Data quality is crucial for accurate analysis and decision-making. In e-commerce
 5. Data Cleaning
    ![image](https://github.com/user-attachments/assets/bc28e0fc-92b4-44b5-9194-8e24f8d32766)
    Added a new column with a new data type because MS SQL could not identify the previous column which had special characters.
+   
 
    ![image](https://github.com/user-attachments/assets/27a185bc-aabf-439a-b940-ca4f161e4791)
    Handled empty data Replacing NULL or empty fields with appropriate default values (e.g., "Not Ranked" for missing rankings) and remove special characters like "%", "$"
@@ -30,7 +31,7 @@ Data quality is crucial for accurate analysis and decision-making. In e-commerce
    ![image](https://github.com/user-attachments/assets/75521807-76ec-4d0f-9543-0234326e845a)
    Remove 7 unreasonable prices on data
 
-6. Output
+7. Output
    ![image](https://github.com/user-attachments/assets/47bd2061-ba82-4e89-b2c0-7634d2b17f98)
    The data has been cleaned by filling in empty values ​​(NULL), removing special characters except in the sold recently column because the + sign indicates (more), removing duplicate data and moving the data to a column with the correct data type.
 
