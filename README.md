@@ -28,7 +28,7 @@ There are a lot of empty (NULL) data and duplicate records.
 
 ---
 
-## **3. Data Cleaning (Adding a New Column)**
+## **3. Data Cleaning (Adding a New Column) and Change colomn name**
 ![image](https://github.com/user-attachments/assets/bc28e0fc-92b4-44b5-9194-8e24f8d32766)  
 A new column was added with a different data type because MS SQL could not identify the previous column due to special characters.
 
