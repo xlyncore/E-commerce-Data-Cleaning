@@ -15,19 +15,19 @@ Data quality is crucial for accurate analysis and decision-making. In e-commerce
    ![image](https://github.com/user-attachments/assets/bc28e0fc-92b4-44b5-9194-8e24f8d32766)
    Added a new column with a new data type because MS SQL could not identify the previous column which had special characters.
    
-4. Handle empty colomn and special character
+5. Handle empty colomn and special character
    ![image](https://github.com/user-attachments/assets/27a185bc-aabf-439a-b940-ca4f161e4791)
    Handled empty data Replacing NULL or empty fields with appropriate default values (e.g., "Not Ranked" for missing rankings) and remove special characters like "%", "$"
 
-6. Move the values
+7. Move the values
    ![Screenshot 2025-03-10 100022](https://github.com/user-attachments/assets/bb76f34d-7c54-4d50-8d51-b65ef748c263)
    Fill the empty goods_title_link_jump with the value from goods_title_link (the colomn name is change)
 
-8. Move the Values
-   ![Screenshot 2025-03-10 100454](https://github.com/user-attachments/assets/9e5efecf-22a2-4a03-a299-ff0dbe2d861c)
+9. Move the Values
+    ![Screenshot 2025-03-10 100454](https://github.com/user-attachments/assets/9e5efecf-22a2-4a03-a299-ff0dbe2d861c)
    Move the price and discount column data of type NVARCHAR to a new column with integer data type.
 
-10. Deleting Duplicated data
+11. Deleting Duplicated data
     ![image](https://github.com/user-attachments/assets/5914a487-dfef-4800-b597-3052c708698e)
     After deleting duplicated data
 
