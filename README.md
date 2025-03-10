@@ -1,5 +1,5 @@
 # **Background**
-Data quality is crucial for accurate analysis and decision-making. In e-commerce, inconsistent, duplicate, or incorrect data can lead to misleading insights. This project focuses on cleaning and standardizing an e-commerce dataset to improve data accuracy and usability. 
+Data quality is crucial for accurate analysis and decision-making. In e-commerce, inconsistent, duplicate, or incorrect data can lead to misleading insights. This project focuses on cleaning and standardizing an e-commerce dataset to improve data accuracy and usability. This data can be downloaded at https://www.kaggle.com/datasets/oleksiimartusiuk/e-commerce-data-shein/data
 
 Key tasks include:
 - Handling missing values
