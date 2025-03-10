@@ -16,14 +16,14 @@ The cleaned data ensures reliability for analysis and decision-making.
 # **Exploratory Data Cleaning**
 
 ## **1. Initial Inspection**
-![Dirty Data](https://github.com/user-attachments/assets/6ab12459-8757-474a-9618-e4e366a766ea)  
+![420737484-6ab12459-8757-474a-9618-e4e366a766ea](https://github.com/user-attachments/assets/5831f488-13ff-4661-b11e-b9237087f4e7)
 There are missing values, inconsistent formats, and unnecessary text in columns.
 
 ---
 
 ## **2. Identifying Missing Values and Duplicates**
 ![Null data](https://github.com/user-attachments/assets/e0883f8e-db21-46d9-9f5e-46530ee55af6)  
-![Duplicated Data](https://github.com/user-attachments/assets/cd012374-6ed0-4771-83bb-8114f53556fe)  
+![420737900-cd012374-6ed0-4771-83bb-8114f53556fe](https://github.com/user-attachments/assets/7206d449-2312-4aa8-9d0f-f217f82a50a2)
 There are a lot of empty (NULL) data and duplicate records.
 
 ---
